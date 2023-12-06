@@ -1,2 +1,2 @@
 # FamilyTree
-A Python module to implement some basic family tree software, where users can look up various relationships that exist in the database, as well as merging two family tree databases that may contain overlapping information. 
+A Python module to implement some basic family tree software, where users can look up various relationships that exist in the database, as well as merging two family tree databases that may contain overlapping information. Each entry in a family tree database as a list of three strings [name, father, mother], where name is a person's name, father is the name of their father, and mother is the name of their mother. Where a particular relationship is unknown, the value None is used. The file hobbit-family.txt is also provided for testing. 
